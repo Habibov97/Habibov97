@@ -12,10 +12,10 @@
 <h2>Tools & Tech </h2>
 
 <ul>
- <li type="circle"> <b>Backend:</b> <i>Node.js, NestJS, Express</i> <br/></li>
- <li type="circle"> <b>Frontend:</b> <i>React, Next.js</i> <br/></li>
- <li type="circle"> <b>Database:</b> <i>PostgreSQL, MongoDB</i> <br/></li>
- <li type="circle"> <b>Other:</b> <i>Git, REST APIs etc.</i></li>
+ <li type="disc"> <b>Backend:</b> <i>Node.js, NestJS, Express</i> <br/></li>
+ <li type="disc"> <b>Frontend:</b> <i>React, Next.js</i> <br/></li>
+ <li type="disc"> <b>Database:</b> <i>PostgreSQL, MongoDB</i> <br/></li>
+ <li type="disc"> <b>Other:</b> <i>Git, REST APIs etc.</i></li>
 </p>
 
 <h2>About Me </h2>
