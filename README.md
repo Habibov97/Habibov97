@@ -11,17 +11,17 @@
 
 <h2>Tools & Tech </h2>
 
-<p>
-  <b>Backend:</b> Node.js, NestJS, Express <br/>
-  <b>Frontend:</b> React, Next.js <br/>
-  <b>Database:</b> PostgreSQL, MongoDB <br/>
-  <b>Other:</b> Git, REST APIs etc.
+<ul>
+ <li type="circle"> <b>Backend:</b> <i>Node.js, NestJS, Express</i> <br/></li>
+ <li type="circle"> <b>Frontend:</b> <i>React, Next.js</i> <br/></li>
+ <li type="circle"> <b>Database:</b> <i>PostgreSQL, MongoDB</i> <br/></li>
+ <li type="circle"> <b>Other:</b> <i>Git, REST APIs etc.</i></li>
 </p>
 
 <h2>About Me </h2>
 
-<p>
-  - 🕹️ I like gaming besides coding <br/>
-  - ☕️ I am a tea person <br/>
-  - 🧠 I like building things are simple, useful and easy to understand
+<ul>
+  <li type="disc"> 🕹️ I like gaming besides coding <br/></li>
+  <li type="disc"> ☕️ I am a tea person <br/></li>
+  <li type="disc"> 🧠 I like building things are simple, useful and easy to understand</li>
 </p>
