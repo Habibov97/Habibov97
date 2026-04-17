@@ -21,7 +21,7 @@
 <h2>About Me </h2>
 
 <ul>
-  <li type="disc"> 🕹️ I like gaming besides coding <br/></li>
-  <li type="disc"> ☕️ I am a tea person <br/></li>
-  <li type="disc"> 🧠 I like building things are simple, useful and easy to understand</li>
+  <li type="disc"> I like gaming besides coding <br/></li>
+  <li type="disc"> I am a tea person <br/></li>
+  <li type="disc"> I like building things are simple, useful and easy to understand</li>
 </p>
