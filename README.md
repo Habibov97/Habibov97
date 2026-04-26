@@ -16,6 +16,7 @@
  <li type="disc"> <b>Frontend:</b> <i>React, Next.js</i> <br/></li>
  <li type="disc"> <b>Database:</b> <i>PostgreSQL, MongoDB</i> <br/></li>
  <li type="disc"> <b>Other:</b> <i>Git, REST APIs etc.</i></li>
+ <li type="disc"> <b>Exploring:</b> <i>Vue.js.</i></li>
 </ul>
 
 <h2>About Me </h2>
